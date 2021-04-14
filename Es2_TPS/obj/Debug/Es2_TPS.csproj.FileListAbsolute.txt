@@ -1,0 +1,15 @@
+C:\Users\lorenzo.zuttion\source\repos\Es2_TPS\Es2_TPS\bin\Debug\Es2_TPS.exe.config
+C:\Users\lorenzo.zuttion\source\repos\Es2_TPS\Es2_TPS\bin\Debug\Es2_TPS.exe
+C:\Users\lorenzo.zuttion\source\repos\Es2_TPS\Es2_TPS\bin\Debug\Es2_TPS.pdb
+C:\Users\lorenzo.zuttion\source\repos\Es2_TPS\Es2_TPS\obj\Debug\Es2_TPS.csprojAssemblyReference.cache
+C:\Users\lorenzo.zuttion\source\repos\Es2_TPS\Es2_TPS\obj\Debug\MainWindow.g.cs
+C:\Users\lorenzo.zuttion\source\repos\Es2_TPS\Es2_TPS\obj\Debug\App.g.cs
+C:\Users\lorenzo.zuttion\source\repos\Es2_TPS\Es2_TPS\obj\Debug\Es2_TPS_MarkupCompile.cache
+C:\Users\lorenzo.zuttion\source\repos\Es2_TPS\Es2_TPS\obj\Debug\Es2_TPS_MarkupCompile.lref
+C:\Users\lorenzo.zuttion\source\repos\Es2_TPS\Es2_TPS\obj\Debug\MainWindow.baml
+C:\Users\lorenzo.zuttion\source\repos\Es2_TPS\Es2_TPS\obj\Debug\Es2_TPS.g.resources
+C:\Users\lorenzo.zuttion\source\repos\Es2_TPS\Es2_TPS\obj\Debug\Es2_TPS.Properties.Resources.resources
+C:\Users\lorenzo.zuttion\source\repos\Es2_TPS\Es2_TPS\obj\Debug\Es2_TPS.csproj.GenerateResource.cache
+C:\Users\lorenzo.zuttion\source\repos\Es2_TPS\Es2_TPS\obj\Debug\Es2_TPS.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo.zuttion\source\repos\Es2_TPS\Es2_TPS\obj\Debug\Es2_TPS.exe
+C:\Users\lorenzo.zuttion\source\repos\Es2_TPS\Es2_TPS\obj\Debug\Es2_TPS.pdb
